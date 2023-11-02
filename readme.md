@@ -1,5 +1,5 @@
-##Nama : Sindurmas Muhammad Ramasindu
-##NIM : 202210370311377
+Nama : Sindurmas Muhammad Ramasindu
+NIM : 202210370311377
 
 ## Program Menghitung Winrate (Java)
 Ini adalah program sederhana yang memungkinkan Anda untuk menghitung winrate Anda dalam konteks pertandingan atau permainan. Program ini dibuat menggunakan bahasa pemrograman Java dan menerima input jumlah pertandingan yang dimainkan dan jumlah kemenangan Anda, lalu menghitung dan menampilkan winrate Anda dalam bentuk persentase.
